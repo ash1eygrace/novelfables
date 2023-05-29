@@ -1,24 +1,70 @@
-# NovelFables
+# Getting Started with Create React App
 
-Welcome to the NovelFables GitHub repository!
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-NovelFables is a React application that I'm excited to start building. This app aims to provide a platform for reading and exploring a diverse collection of novels and fables, and visualizing your reading habits with tracking data. This repository serves as the starting point for the development of NovelFables, and it is currently under construction. 
+## Available Scripts
 
-## Features (Planned)
+In the project directory, you can run:
 
-- Browse and search: Users can browse through a vast library of novels, as well as utilize a powerful search functionality to find specific titles or authors, leveraging Google Books API.
-- Bookshelf: Users can user default shelves or create personal bookshelves, add books to their public or private shelves, and track their reading progress. 
-- Reading analytics: Users will have access to reading analytics, including data such as reading speed, reading time, and progress tracking. These analytics will provide insights into users' reading habits and help them set reading goals or track their reading performance over time.
-- Reading Graphics: Users will be able to export pretty graphics of their monthly and annual reading recaps. 
-- User authentication and registration: Users will be able to create accounts, log in, and manage their profiles.
+### `npm start`
 
-Please note that these features are planned and currently in development. The repository will be regularly updated as progress is made.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Getting Started
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-To get started with NovelFables locally, please follow these steps:
+### `npm test`
 
-1. Clone the repository to your local machine
-2. Install the necessary dependencies with `npm install`
-3. Start the development server with `npm start`
-4. Open your browser and navigate to `http://localhost:3000` to see the application running.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
